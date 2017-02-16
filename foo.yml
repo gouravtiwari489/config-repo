@@ -23,8 +23,8 @@ spring:
   profiles: prod
 
 doge:
-  wow: 10
-  such: so
+  wow: 10000
+  such: so00
   very: true
 
 ---
