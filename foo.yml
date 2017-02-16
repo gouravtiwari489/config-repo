@@ -23,9 +23,9 @@ spring:
   profiles: prod
 
 doge:
-  wow: 3333
-  such: JFDDF
-  very: XYZ
+  wow: XXXXXXXXXXXXXXXXX
+  such: ZZZZZZZZZZZZZZZZZZZZZZ
+  very: YYYYYYYYYYYYYYYYYYYYYYYY
 
 ---
 spring:
