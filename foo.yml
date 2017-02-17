@@ -14,9 +14,9 @@ spring:
   profiles: dev
 
 doge:
-  wow: 10000
-  such: saou
-  very: false
+  wow: 10000000000000
+  such: saoudsfsdffdfd
+  very: falsefsfsdsfsdf
 
 ---
 spring:
