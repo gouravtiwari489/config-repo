@@ -7,7 +7,7 @@ spring:
 doge:
   wow: 10
   such: so
-  very: true
+  very: false
 
 ---
 spring:
