@@ -1,0 +1,8 @@
+spring:
+  profiles: DEV
+
+doge:
+  wow: DEV
+  such: is
+  very: enabled
+

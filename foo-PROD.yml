@@ -1,0 +1,8 @@
+spring:
+  profiles: PROD
+
+doge:
+  wow: prod
+  such: is
+  very: enabled
+

@@ -1,0 +1,8 @@
+spring:
+  profiles: DIT
+
+doge:
+  wow: DIR
+  such: is
+  very: enabled
+

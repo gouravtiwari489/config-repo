@@ -1,0 +1,8 @@
+spring:
+  profiles: EQA
+
+doge:
+  wow: EQA
+  such: is
+  very: enabled
+
