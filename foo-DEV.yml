@@ -4,5 +4,5 @@ spring:
 doge:
   wow: DEV
   such: is
-  very: enabled
+  very: off
 
